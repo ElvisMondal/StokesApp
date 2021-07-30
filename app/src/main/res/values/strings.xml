@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+    <string name="search_stock">Search Stock</string>
+    <string name="file_name">Product.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="no_file">No JSON Product File Present</string>
+    <string name="arrow">%1$s %2$s</string>
+    <string name="change_percentage">%1$s%2$s%3$s%4$s</string>
+    <string name="amzn">AMZN</string>
+    <string name="amazon_company_inc">Amazon Company Inc.</string>
+    <string name="_3211_01">3211.01</string>
+    <string name="_4_23">+4.23</string>
+    <string name="_0_11">(0.11%)</string>
+
+</resources>
